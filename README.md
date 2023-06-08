@@ -1,4 +1,6 @@
 # typescript-mini_projects
+![Screenshot from 2023-06-08 11-29-34](https://github.com/AngeiraT/typescript-mini_projects/assets/105127608/7badd027-d6f5-40d7-8da9-8f09a40f03a4)
+
 
 ### Setup
 
